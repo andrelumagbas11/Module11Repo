@@ -8,4 +8,4 @@
 
 print("Hello, World!")
 
-print("Hello , GitHub!")
+print("Welcome to GitHub!")
